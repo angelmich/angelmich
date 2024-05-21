@@ -20,9 +20,14 @@ I can be reached through Instagram, LinkedIn, or email.
 - I am also the team captain of my national volleyball travel team. This job requires me to stay strong and bring my teammates up even when personally discouraged. On top of that, I suggest certain plays and positions to put my teammates in. 
 
 ### Skills
-- Hardworking
-- 
-
+- Can make Codes on makecodearcade
+- I can operate one note
+- I can use Google Docs and slides
+- on top of that I can use Google Sheets
+  
+### Languages
+- English
+- Spanish
 
 
 ### GitHub Stats
@@ -37,7 +42,7 @@ I can be reached through Instagram, LinkedIn, or email.
 
 	
 
-
+![Linkdin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4fcdsIUPUgmbvGaP-RC4RbHYdVtoN_fM8aya_8gOXI2BRtClESO-0_jgWTtKtIVmOQKs:https://lookaside.fbsbx.com/lookaside/crawler/media/%3Fmedia_id%3D100064379813770&usqp=CAU)
 
 
 
