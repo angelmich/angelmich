@@ -37,6 +37,14 @@ I can be reached through Instagram, LinkedIn, or email.
 
 	
 	
+	<p align='center'>
+	   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=angelmich&show_icons=true&count_private=true"/>
+	   </a>
+	   <a href="https://github.com/angelmich/github-readme-stats">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmich&layout=compact"/>
+	   </a>
+</p>![image](https://github.com/angelmich/angelmich/assets/158605854/ead511ef-e094-468c-afcb-c4f6835557e9)
 
 
 
