@@ -1,9 +1,9 @@
 # Angel Keller
 
-😄![image](https://github.com/angelmich/angelmich/assets/158605854/4a892a9b-d230-4160-89af-92c510353bc1)Hi, I am Angel my interests are psychology, volleyball, knitting, scrapbooking, reading, and computer science. 
+😄 Hi, I am Angel my interests are psychology, volleyball, knitting, scrapbooking, reading, and computer science. 
  
 
-## Social media ⚡![image](https://github.com/angelmich/angelmich/assets/158605854/e492d557-5fd0-491f-b63c-b9700c254c79)
+## Social media ⚡
 
 [Angelmkeller07@gbstu.org](mailto:Angelmkeller07@gbstu.org)  
 [Instagram](https://www.instagram.com/)
