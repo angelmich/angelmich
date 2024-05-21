@@ -3,13 +3,16 @@
 😄 Hi, I am Angel my interests are psychology, volleyball, knitting, scrapbooking, reading, and computer science. 
  
 
-### Social media ⚡
+### Social media 📫
+
+I can be reached through Instagram, LinkedIn, or email. 
 
 [Angelmkeller07@gbstu.org](mailto:Angelmkeller07@gbstu.org)  
 [Instagram](https://www.instagram.com/)
 [Linkedin](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFL6q3NxGP0LQAAAY-b9wfoUISr_SKvKZ9LGL8qMiRkCJfCvCYVftUglsmqHKyykVpG6FrOHKPWsnUP-IonNYXHRlKstIVaMjoO9EKaApen3ffepvFQkdMySpnlRHpW86UCjfE=&original_referer=https://github.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faspiece%2F)
 
-### Experience
+### Experience🔭
+
 **Grand Blanc High School student**
 
 - I have babysat many kids. I am very good at entertaining kids while ensuring they are learning and doing worthwhile activities. 
