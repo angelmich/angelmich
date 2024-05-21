@@ -1,12 +1,16 @@
 # Angel Keller
 
  
-810.869.8475  
-[Angelmkeller07@gbstu.org](Angemkeller07@gbstu.org)  
+Grand Blanc High School student  
+[Angelmkeller07@gbstu.org](mailto:Angelmkeller07@gbstu.org)  
+[Instagram](https://www.instagram.com/)
 
+###Experience
+**Grand Blanc High School student**
 
-
-
+- I have babysat many kids. I am very good at entertaining kids while ensuring they are learning and doing worthwhile activities. 
+- Another thing I do is paint apartments with my mom. This requires lots of physical and mental strength because the work is taxing. 
+-I am also the team captain of my national volleyball travel team. This job requires me to stay strong and bring my teammates up even when personally discouraged. On top of that, I suggest certain plays and positions to put my teammates in. 
 
 
 
