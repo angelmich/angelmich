@@ -17,7 +17,7 @@ I can be reached through Instagram, LinkedIn, or email.
 
 - I have babysat many kids. I am very good at entertaining kids while ensuring they are learning and doing worthwhile activities. 
 - Another thing I do is paint apartments with my mom. This requires lots of physical and mental strength because the work is taxing. 
--I am also the team captain of my national volleyball travel team. This job requires me to stay strong and bring my teammates up even when personally discouraged. On top of that, I suggest certain plays and positions to put my teammates in. 
+- I am also the team captain of my national volleyball travel team. This job requires me to stay strong and bring my teammates up even when personally discouraged. On top of that, I suggest certain plays and positions to put my teammates in. 
 
 ### Skills
 - Hardworking
@@ -26,17 +26,17 @@ I can be reached through Instagram, LinkedIn, or email.
 
 
 ### GitHub Stats
-
-	
 	<p align='center'>
-	   <a href="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true">
+	   <a href="https://github-readme-stats.vercel.app/api?username=angelmich&show_icons=true&count_private=true">
 	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=angelmich&show_icons=true&count_private=true"/>
 	   </a>
 	   <a href="https://github.com/angelmich/github-readme-stats">
 	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmich&layout=compact"/>
 	   </a>
-</p>![image](https://github.com/angelmich/angelmich/assets/158605854/13886540-13cc-4de7-949c-b62065e88f3e)
+</p>![image](https://github.com/angelmich/angelmich/assets/158605854/f19f3c84-e789-4e39-be3d-6599cf6fd984)
 
+	
+	
 
 
 
